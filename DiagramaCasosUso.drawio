@@ -10,7 +10,7 @@
             <mxPoint x="80" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V8hUtTH4Ydl_pZKpW47u-1" value="APLICACION" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
+        <mxCell id="V8hUtTH4Ydl_pZKpW47u-1" value="My Routes App&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;lication&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="120" y="10" width="700" height="1050" as="geometry">
             <mxRectangle x="280" y="50" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
