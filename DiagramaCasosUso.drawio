@@ -21,7 +21,7 @@
         <mxCell id="V8hUtTH4Ydl_pZKpW47u-3" value="&amp;nbsp;Ver/&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Crear/Eliminar Rutas a todos los usuarios (administración&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="V8hUtTH4Ydl_pZKpW47u-1" vertex="1">
           <mxGeometry x="170.5" y="80" width="209.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V8hUtTH4Ydl_pZKpW47u-4" value="CRUD Videos disponibles&lt;div&gt;(administración&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="V8hUtTH4Ydl_pZKpW47u-1" vertex="1">
+        <mxCell id="V8hUtTH4Ydl_pZKpW47u-4" value="CRUD Vídeos disponibles&lt;div&gt;(administración&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="V8hUtTH4Ydl_pZKpW47u-1" vertex="1">
           <mxGeometry x="167.75" y="150" width="172.25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="V8hUtTH4Ydl_pZKpW47u-20" value="Crear Nuevas rutas" style="ellipse;whiteSpace=wrap;html=1;" parent="V8hUtTH4Ydl_pZKpW47u-1" vertex="1">
