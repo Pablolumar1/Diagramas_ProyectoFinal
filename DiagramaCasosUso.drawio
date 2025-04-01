@@ -93,7 +93,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPFQpPTmqEDx2Yrtiosh-1" value="Ver rutas publicas pantalla inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="V8hUtTH4Ydl_pZKpW47u-1">
+        <mxCell id="XPFQpPTmqEDx2Yrtiosh-1" value="Ver rutas públicas pantalla inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="V8hUtTH4Ydl_pZKpW47u-1">
           <mxGeometry x="164" y="880" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="V8hUtTH4Ydl_pZKpW47u-6" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
